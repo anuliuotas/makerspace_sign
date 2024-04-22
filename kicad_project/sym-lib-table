@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "buck")(type "KiCad")(uri "${KIPRJMOD}/lib/symbol/buck.kicad_sym")(options "")(descr ""))
+  (lib (name "--local")(type "KiCad")(uri "${KIPRJMOD}/lib/symbol/--local.kicad_sym")(options "")(descr ""))
+)
