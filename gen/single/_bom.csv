@@ -2,5 +2,6 @@
 "1","","5v_buck","Buck1","~","5v buck","1"," ",""
 "2","Unpolarized capacitor","C","C1,C2,C3,C4,C5,C6","100n","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","6"," ","~"
 "3","RGB LED with integrated controller","WS2812B","D1,D2,D3,D4,D5,D6","WS2812B","LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","6"," ","https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-"4","Generic connector, single row, 01x04, script generated","Conn_01x04_Socket","J3,J5,J7","Conn_E1_F","4_pin_solder_pad","3"," ","~"
-"5","Generic connector, single row, 01x04, script generated","Conn_01x04_Pin","J1,J2,J4,J6","Conn_EXT","4_pin_solder_pad","4"," ","~"
+"4","","LOGO_KMS","G1","LOGO_KMS","logo_kms_small_silkscreen","1"," ",""
+"5","Generic connector, single row, 01x04, script generated","Conn_01x04_Socket","J3,J5,J7","Conn_E1_F","4_pin_solder_pad","3"," ","~"
+"6","Generic connector, single row, 01x04, script generated","Conn_01x04_Pin","J1,J2,J4,J6","Conn_EXT","4_pin_solder_pad","4"," ","~"

@@ -1680,6 +1680,30 @@
     )
   )
 
+  (symbol (lib_id "--local:LOGO_KMS") (at 223.52 130.81 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 6da62d1c-726e-4114-86fc-5d3c88472e76)
+    (property "Reference" "G1" (at 223.52 116.8823 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "LOGO_KMS" (at 223.52 144.7377 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "--local:logo_kms_small_silkscreen" (at 223.52 130.81 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 223.52 130.81 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "makerspace_sign"
+        (path "/671df12e-dade-4f44-8399-d2645e1bafe3"
+          (reference "G1") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Connector:Conn_01x04_Pin") (at 163.83 87.63 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 721c9750-72d0-4081-ae00-d2c6328299f7)
@@ -2395,30 +2419,6 @@
       (project "makerspace_sign"
         (path "/671df12e-dade-4f44-8399-d2645e1bafe3"
           (reference "Buck1") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "--local:LOGO_KMS") (at 218.44 128.27 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid cb98cff6-000c-4ec3-b827-d8bd5032169b)
-    (property "Reference" "#G1" (at 218.44 114.3423 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "LOGO_KMS" (at 218.44 142.1977 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Footprint" "--local:logo_kms_small_silkscreen" (at 218.44 128.27 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 218.44 128.27 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "makerspace_sign"
-        (path "/671df12e-dade-4f44-8399-d2645e1bafe3"
-          (reference "#G1") (unit 1)
         )
       )
     )
